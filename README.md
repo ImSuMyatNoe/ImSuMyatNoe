@@ -21,11 +21,6 @@ Based in Tokyo, I'm a Project Researcher at the **National Institute of Informat
 
 You can explore my research works on [Google Scholar](https://scholar.google.com/citations?user=BdUh5ogAAAAJ&hl=en) — recent venues include **NLP 2026**, **LREC 2026**, **ICAART 2026**, and **Nature Scientific Reports**.
 
-## 🔬 Currently Working On 🔬
-
-- 📝 **MSTS-JP** — Multimodal Safety Evaluation of Vision-Language Models in Japanese
-- 🖥️ **OSWorld-JP** — Japanese localization of the OSWorld agentic benchmark
-- 🤝 NII-LLMC × AI Singapore (AISG) collaboration on multimodal safety
 
 ## 📬 How to reach me 📬
 
