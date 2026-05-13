@@ -38,6 +38,5 @@ You can explore my research works on [Google Scholar](https://scholar.google.com
 - 💼 [LinkedIn - Su Myat Noe](https://www.linkedin.com/in/su-myat-noe-148089113/)
 - 🔗 [ORCID - 0000-0001-7802-8263](https://orcid.org/0000-0001-7802-8263)
 - 🐙 [GitHub - ImSuMyatNoe](https://imsumyatnoe.github.io/)
-- 📖 [Medium](https://medium.com/@sumyatnoe)
-- 
-
+- 📖 [Medium - Su Myat Noe](https://medium.com/@sumyatnoe)
+  
