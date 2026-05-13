@@ -1,16 +1,41 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a8e6cf,100:dcedc8&height=220&section=header&text=Su%20Myat%20Noe&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Project%20Researcher%20|%20AI%20Safety%20%26%20Multimodal%20Evaluation&descAlignY=58&descAlign=50&descSize=18)
 
-<!--
-**ImSuMyatNoe/ImSuMyatNoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Welcome to my GitHub profile! 🌟
 
-Here are some ideas to get you started:
+Based in Tokyo, I'm a Project Researcher at the **National Institute of Informatics (NII)**, working within the **Large Language Model Research and Development Center (LLMC)**. My research centers on **multimodal AI safety evaluation** for Japanese-language vision-language models, with parallel work on **agentic benchmark evaluation**. Originally from Myanmar 🇲🇲 and based in Japan 🇯🇵 since 2019, I'm also a Women in AI Myanmar Ambassador & Board Member and a GDG Tokyo volunteer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Research Interests 🌱
+
+- Multimodal AI Safety 🛡️
+- Vision-Language Models 👁️
+- LLM-as-a-Judge Evaluation ⚖️
+- Japanese NLP 🗾
+- Cross-lingual & Cross-cultural Safety 🌐
+- Agentic AI & GUI Agents 🤖
+- Benchmark Construction 📋
+- Responsible AI & Red-teaming 🚨
+- Computer Vision 📸
+- Low-resource Language Modeling 🌏
+
+## 📚 Publications 📚
+
+You can explore my research works on [Google Scholar](https://scholar.google.com/citations?user=BdUh5ogAAAAJ&hl=en) — recent venues include **NLP 2026**, **LREC 2026**, **ICAART 2026**, and **Nature Scientific Reports**.
+
+## 🔬 Currently Working On 🔬
+
+- 📝 **MSTS-JP** — Multimodal Safety Evaluation of Vision-Language Models in Japanese
+- 🖥️ **OSWorld-JP** — Japanese localization of the OSWorld agentic benchmark
+- 🤝 NII-LLMC × AI Singapore (AISG) collaboration on multimodal safety
+
+## 📬 How to reach me 📬
+
+- 💼 [LinkedIn - Su Myat Noe](https://www.linkedin.com/in/su-myat-noe-148089113/)
+- 🔗 [ORCID - 0000-0001-7802-8263](https://orcid.org/0000-0001-7802-8263)
+- 🐙 [GitHub - ImSuMyatNoe](https://github.com/ImSuMyatNoe)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImSuMyatNoe&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSuMyatNoe&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
+</p>
