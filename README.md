@@ -1,8 +1,19 @@
 
 
-## 🌟 Welcome to my GitHub profile! 🌟
+## 🌟 Hi , I am Su 🌟
 
-Based in Tokyo, I'm a Project Researcher at the **National Institute of Informatics (NII)**, working within the **Large Language Model Research and Development Center (LLMC)**. My research centers on **multimodal AI safety evaluation** for Japanese-language vision-language models, with parallel work on **agentic benchmark evaluation**. Originally from Myanmar 🇲🇲 and based in Japan 🇯🇵 since 2019, I'm also a Women in AI Myanmar Ambassador & Board Member and a GDG Tokyo volunteer.
+Based in Tokyo, I work as a Project Researcher at the National Institute of Informatics within the Large Language Model Research and Development Center, where I focus on multimodal AI safety and agentic benchmark evaluation.
+
+But outside of my research life, I’m probably just another curious builder chasing random ideas with coffee, notebooks, and too many unfinished side projects ☺️
+
+I genuinely enjoy building things that might help people — whether it’s small AI tools, community projects, benchmark ideas, or experiments that start from a “what if we try this?” moment late at night.
+
+When I’m free, I usually write Medium posts, volunteer at local AI communities, help organize tech events, mentor students, or spend weekends attending AI meetups around Tokyo. A lot of my best opportunities and friendships actually came from community spaces, not formal meetings.
+
+Originally from Myanmar 🇲🇲 and living in Japan 🇯🇵 since 2019, I also serve as a Women in AI Myanmar Ambassador & Board Member and volunteer with GDG Tokyo.
+
+I love connecting people, exchanging ideas, and collaborating on meaningful or slightly crazy projects. If you’re building something impactful, experimental, community-driven, or simply fun — I’m probably just one message away.
+
 
 ## 🌱 Research Interests 🌱
 
@@ -27,4 +38,6 @@ You can explore my research works on [Google Scholar](https://scholar.google.com
 - 💼 [LinkedIn - Su Myat Noe](https://www.linkedin.com/in/su-myat-noe-148089113/)
 - 🔗 [ORCID - 0000-0001-7802-8263](https://orcid.org/0000-0001-7802-8263)
 - 🐙 [GitHub - ImSuMyatNoe](https://imsumyatnoe.github.io/)
+- 📖 [Medium](https://medium.com/@sumyatnoe)
+- 
 
