@@ -26,11 +26,5 @@ You can explore my research works on [Google Scholar](https://scholar.google.com
 
 - 💼 [LinkedIn - Su Myat Noe](https://www.linkedin.com/in/su-myat-noe-148089113/)
 - 🔗 [ORCID - 0000-0001-7802-8263](https://orcid.org/0000-0001-7802-8263)
-- 🐙 [GitHub - ImSuMyatNoe](https://github.com/ImSuMyatNoe)
+- 🐙 [GitHub - ImSuMyatNoe](https://imsumyatnoe.github.io/)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImSuMyatNoe&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSuMyatNoe&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
-</p>
