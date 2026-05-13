@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a8e6cf,100:dcedc8&height=220&section=header&text=Su%20Myat%20Noe&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Project%20Researcher%20|%20AI%20Safety%20%26%20Multimodal%20Evaluation&descAlignY=58&descAlign=50&descSize=18)
+
 
 ## 🌟 Welcome to my GitHub profile! 🌟
 
